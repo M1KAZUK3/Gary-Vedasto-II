@@ -7,24 +7,31 @@
 ---
 
 ## 🚀 About Me  
-🎓 **BSIT Student** at **Laguna State Polytechnic University**  
+🎓 **BSIT 4th Year Student** at **Laguna State Polytechnic University**  
 💻 **Currently learning:** Python, Flask, SQL, Flutter, Dart  
-🎯 **Goal:** To become a skilled **Web and Mobile Application Developer**  
-✨ **Interests:** Software Development, Cloud Computing, UI/UX Design  
+🎯 **Goal:** To master Frontend Development (HTML, CSS, JavaScript, and modern frameworks).  
+✨ **Interests:** Wed and Mobile Development, Cloud Computing, UI/UX Design  
 
 ---
 
 ## 🛠️ Skills  
-**Languages:**  
+### **Programming Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 
-**Frameworks & Tools:**  
+### **Frameworks & Libraries**  
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)  
+
+### **Design & UI/UX Tools**  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)  
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white)  
 
 ---
 
@@ -36,10 +43,9 @@
 ---
 
 ## 🌐 Connect With Me  
-📧 **Email:** your.email@example.com  
-💼 [**LinkedIn**](https://www.linkedin.com/in/yourprofile)  
-🐦 [**Twitter**](https://twitter.com/yourusername)  
-🌍 [**Portfolio Website**](https://yourwebsite.com)  
+📧 **Email:** pascuagary5@gmail.com  
+💼 [**LinkedIn**] https://www.linkedin.com/in/mikazuki-pascua-4a1b2737b/  
+🌍 [**Portfolio Website**](https://sites.google.com/view/gviip/home?authuser=0)  
 
 ---
 
